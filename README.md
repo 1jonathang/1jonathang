@@ -1,16 +1,13 @@
-### Hi there 👋
+# Jonathan Gorbachev
+![](https://github.com/jonathangorbachev/Jonathan-Gorbachev/blob/main/gif.gif)
 
-<!--
-**jonathangorbachev/jonathangorbachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Incoming SWE intern at Capital One
+ - Bachelors in Computer Science at [Carleton University](https://carleton.ca/)
+ - Interested in ML and data science
+ - Brooklyn born and raised
 
-Here are some ideas to get you started:
+## What I love to do
+ - Powerlifting🏋🏽
+ - Studying data structurs & alg at [Structy](https://www.structy.net/)🖥️
+ - Grinding CS2 and Deep Rock Galactic🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
