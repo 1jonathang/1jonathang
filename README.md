@@ -7,7 +7,7 @@
  - Brooklyn born and raised
 
 ## What I love to do
- - Powerlifting🏋🏽
+ - Powerlifting and gym🏋🏽
  - Studying data structurs & alg at [Structy](https://www.structy.net/)🖥️
  - Grinding CS2 and Deep Rock Galactic🎮
 
