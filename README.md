@@ -1,7 +1,7 @@
 # Jonathan Gorbachev
 ![](https://github.com/jonathangorbachev/Jonathan-Gorbachev/blob/main/gif.gif)
 
- - Incoming SWE intern at Capital One
+ - Software Developer Intern at [Midaflow](https://www.midaflow.com)
  - Bachelors in Computer Science at [Carleton University](https://carleton.ca/)
  - Interested in ML and data science
  - Brooklyn born and raised
