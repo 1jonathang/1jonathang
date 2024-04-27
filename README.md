@@ -2,7 +2,7 @@
 ![](https://github.com/jonathangorbachev/Jonathan-Gorbachev/blob/main/gif.gif)
 
  - Incoming Software Engineer Intern at [Capital One](https://www.capitalone.com)
- - Bachelors in Computer Science at [Carleton University](https://carleton.ca/)
+ - Bachelors in Honors Computer Science at [Carleton University](https://carleton.ca/)
  - Interested in ML and data science
  - Brooklyn born and raised
 
