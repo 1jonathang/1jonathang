@@ -8,6 +8,6 @@
 
 ## What I love to do
  - Powerlifting and gym 🏋🏽
- - Studying data structurs & alg at [Structy](https://www.structy.net/) 🖥️
+ - Studying machine learning at [Deeplearning.ai](https://www.deeplearning.ai/) 🖥️
  - Grinding CS2 and Deep Rock Galactic 🎮
 
