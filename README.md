@@ -1,4 +1,4 @@
-# Jonathan Gorbachev
+# Jonathan G.
 ![](https://github.com/jonathangorbachev/Jonathan-Gorbachev/blob/main/gif.gif)
 
  - previous Software Engineer Intern at [Capital One](https://www.capitalone.com)
